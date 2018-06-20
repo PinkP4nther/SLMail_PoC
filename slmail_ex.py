@@ -1,4 +1,5 @@
 # SLMail Exploit Proof of Concept
+# Author: @Pink_P4nther
 # OSCP Training
 # Target: Windows XP SP3
 # Vulnerable app: https://www.exploit-db.com/apps/12f1ab027e5374587e7e998c00682c5d-SLMail55_4433.exe
