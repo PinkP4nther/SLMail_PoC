@@ -1,5 +1,6 @@
 # SLMail Exploit Proof of Concept
 # OSCP Training
+# Target: Windows XP SP3
 
 import socket
 import sys
